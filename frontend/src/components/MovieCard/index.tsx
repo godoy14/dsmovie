@@ -23,7 +23,7 @@ function MovieCard() {
                 </Link>
             </div>
         </div>
-    )
+    );
 }
 
 export default MovieCard;
